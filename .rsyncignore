@@ -1,0 +1,11 @@
+bootstrap/cache/*
+.env
+.idea
+.DS_Store
+.git*
+node_modules
+storage/framework/cache/*
+storage/framework/session/*
+storage/framework/views/*
+storage/logs/*
+storage/app/*
